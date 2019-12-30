@@ -1,0 +1,10 @@
+C:\Users\faculty\source\repos\CollectionCrudOperations\CollectionCrudOperations\bin\Debug\CollectionCrudOperations.exe.config
+C:\Users\faculty\source\repos\CollectionCrudOperations\CollectionCrudOperations\bin\Debug\CollectionCrudOperations.exe
+C:\Users\faculty\source\repos\CollectionCrudOperations\CollectionCrudOperations\bin\Debug\CollectionCrudOperations.pdb
+C:\Users\faculty\source\repos\CollectionCrudOperations\CollectionCrudOperations\obj\Debug\CollectionCrudOperations.csprojAssemblyReference.cache
+C:\Users\faculty\source\repos\CollectionCrudOperations\CollectionCrudOperations\obj\Debug\CollectionCrudOperations.frmCustomers.resources
+C:\Users\faculty\source\repos\CollectionCrudOperations\CollectionCrudOperations\obj\Debug\CollectionCrudOperations.Properties.Resources.resources
+C:\Users\faculty\source\repos\CollectionCrudOperations\CollectionCrudOperations\obj\Debug\CollectionCrudOperations.csproj.GenerateResource.cache
+C:\Users\faculty\source\repos\CollectionCrudOperations\CollectionCrudOperations\obj\Debug\CollectionCrudOperations.exe
+C:\Users\faculty\source\repos\CollectionCrudOperations\CollectionCrudOperations\obj\Debug\CollectionCrudOperations.pdb
+C:\Users\faculty\source\repos\CollectionCrudOperations\CollectionCrudOperations\obj\Debug\CollectionCrudOperations.frmOrders.resources
